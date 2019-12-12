@@ -1,0 +1,6 @@
+Para resolver o prblema de aparecer as imagens
+
+Executar no projeto Backend
+
+npm install socket.io --save
+npm install npm i sharp --save
